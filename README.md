@@ -4,5 +4,5 @@
   </a>
 </p>
 
-[![Alternative website](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fuel-systems-website)](https://github.com/maxelonej/fuel-systems-website)<br>
+[![Alternative website](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fuel-systems-website)](https://github.com/maxelonej/fuel-systems-website)
 [![WorldSKills](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fiton)](https://github.com/maxelonej/fiton)
