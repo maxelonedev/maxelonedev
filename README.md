@@ -19,3 +19,9 @@
 	<img src="https://komarev.com/ghpvc/?username=maxelonej&color=brightgreen&abbreviated=true" alt="Profile views" />&nbsp;
 	<img src="https://img.shields.io/badge/Since-Nov%202023-brightgreen" alt="Since" />
 </div>
+
+
+### <samp>portfolio</samp>
+![Fuel systems](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fuel-systems&show_icons=true&theme=transparent)
+![Tech map](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=tech-map&show_icons=true&theme=transparent)
+![Communication Activity Core](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=communication-activity-core&show_icons=true&theme=transparent)
